@@ -1,0 +1,110 @@
+body {
+    margin: 20px;
+}
+header {
+    text-align: center;
+}
+h1 {
+    font-family: fantasy;
+}
+
+input {
+    margin: 5px;
+}
+
+button {
+    margin-left: 10px;
+    height: 30px;
+    padding: 0 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 12px;
+    color: #fff;
+    background-color: red;
+}
+.add-Btn {
+    margin-left: 10px;
+    height: 30px;
+    padding: 0 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #fff;
+    background-color: green;
+}
+
+.custom-progress, .delete-Btn {
+    display: inline-block;
+}
+
+.custom-progress {
+    margin-top: 20px;
+    width: 100px;
+    border-radius: 5px;
+  }
+main {
+    width: 700px;
+    margin: 0 auto;
+}
+  
+.front-end, .back-end {
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 5px;
+    box-shadow: 2px 2px;
+    width: 300px;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+}
+.completed {
+    background-color: green;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px;
+  }
+  
+.ongoing {
+    background-color: yellow;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px;
+}
+  
+.pending {
+    background-color: red;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px;
+}
+  
+
+
+
+
+
+
+  
+  
+/* .background {
+    background-image: url("../images/bg1.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+} */
+
+
+
+      
+
+  
+   
+  
+  
+      
+  
+
+      
+    
+    
